@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Fitness Tracker",
-    "screenshot": "",
+    "screenshot": "https://raw.githubusercontent.com/jmrao002/fitnessTracker/main/assets/images/screenshot.png",
     "github": "https://github.com/jmrao002/fitnessTracker",
     "deployment": "https://thawing-anchorage-63956.herokuapp.com/",
     "description": "Enter and track workouts."
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Tech Blog",
-    "screenshot": "",
+    "screenshot": "https://raw.githubusercontent.com/jmrao002/techBlog/main/assets/images/screenshot.png",
     "github": "https://github.com/jmrao002/techBlog",
     "deploy": "https://mrao-tech-blog.herokuapp.com/",
     "description": "Use this blog to write about tech."
@@ -42,7 +42,7 @@
     {
       "id": 6,
       "name": "Expense Tracker",
-      "screenshot": "",
+      "screenshot": "https://raw.githubusercontent.com/Team6Proj2/Proj2/main/assets/images/screenshot.png",
       "github": "https://github.com/Team6Proj2/Proj2",
       "deployment": "https://accountability-team6.herokuapp.com/",
       "description": "Enter and track expenses for yourself and your team."
