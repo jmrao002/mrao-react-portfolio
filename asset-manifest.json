@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mrao-react-portfolio/static/css/main.9d7239e4.chunk.css",
-    "main.js": "/mrao-react-portfolio/static/js/main.b3d813c5.chunk.js",
-    "main.js.map": "/mrao-react-portfolio/static/js/main.b3d813c5.chunk.js.map",
+    "main.js": "/mrao-react-portfolio/static/js/main.bd01a35c.chunk.js",
+    "main.js.map": "/mrao-react-portfolio/static/js/main.bd01a35c.chunk.js.map",
     "runtime-main.js": "/mrao-react-portfolio/static/js/runtime-main.aa3f6e39.js",
     "runtime-main.js.map": "/mrao-react-portfolio/static/js/runtime-main.aa3f6e39.js.map",
     "static/css/2.818011ed.chunk.css": "/mrao-react-portfolio/static/css/2.818011ed.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.7169d9db.chunk.js",
     "static/css/main.9d7239e4.chunk.css",
-    "static/js/main.b3d813c5.chunk.js"
+    "static/js/main.bd01a35c.chunk.js"
   ]
 }
