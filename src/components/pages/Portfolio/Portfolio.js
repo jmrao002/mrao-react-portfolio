@@ -27,6 +27,9 @@ function Portfolio() {
           ))}
         </Wrapper>
       </div>
+      <br />
+      <br />
+      <br />
     </div>
   );
 }
