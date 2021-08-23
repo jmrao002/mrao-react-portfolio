@@ -38,5 +38,13 @@
     "github": "https://github.com/jmrao002/day-planner",
     "deployment": "https://jmrao002.github.io/day-planner",
     "description": "nter and save events for each hour of the day."
-  }
+  },
+    {
+      "id": 6,
+      "name": "Expense Tracker",
+      "screenshot": "",
+      "github": "https://github.com/Team6Proj2/Proj2",
+      "deployment": "https://accountability-team6.herokuapp.com/",
+      "description": "Enter and track expenses for yourself and your team."
+    }
 ]
