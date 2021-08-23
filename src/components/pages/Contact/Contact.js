@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-// update below to use relative path link rather than path link
+// helper to ensure valid email address is entered
 import { validateEmail } from "/Users/mrao/Code/react-portfolio/src/utils/helpers.js";
 
 function ContactForm() {
@@ -18,7 +18,7 @@ function ContactForm() {
       const isValid = validateEmail(event.target.value);
 
       if (!isValid) {
-        setErrorMessage("please enter a valid email");
+        setErrorMessage("Please enter a valid email address");
       } else {
         setErrorMessage("");
       }
