@@ -25,14 +25,6 @@ function Footer() {
         </a>
       </div>
       <div className="mx-4">
-        <a href="mailto:jmichaelrao@gmail.com" rel="noreferrer" target="_blank">
-          <img
-            src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-48.png"
-            alt="Gmail"
-          />
-        </a>
-      </div>
-      <div className="mx-4">
         <a href={resume} download rel="noreferrer" target="_blank">
           <img
             src="https://cdn2.iconfinder.com/data/icons/business-and-finance-388/30/resume_business_cv_work_job_curriculum-_19-48.png"
