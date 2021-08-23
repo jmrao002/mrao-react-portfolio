@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Progressive Budget",
+    "screenshot": "https://raw.githubusercontent.com/jmrao002/progressiveBudget/main/public/assets/screenShot.png",
+    "github": "https://github.com/jmrao002/progressiveBudget",
+    "deployment": "https://peaceful-atoll-01297.herokuapp.com/",
+    "description": "Add expenses and deposits to your budget, with or without an internet connection."
+  },
+  {
+    "id": 2,
+    "name": "Fitness Tracker",
+    "screenshot": "",
+    "github": "https://github.com/jmrao002/fitnessTracker",
+    "deployment": "https://thawing-anchorage-63956.herokuapp.com/",
+    "description": "Enter and track workouts."
+  },
+  {
+    "id": 3,
+    "name": "Tech Blog",
+    "screenshot": "",
+    "github": "https://github.com/jmrao002/techBlog",
+    "deploy": "https://mrao-tech-blog.herokuapp.com/",
+    "description": "Use this blog to write about tech."
+  },
+  {
+    "id": 4,
+    "name": "Weather Dashboard",
+    "screenshot": "https://raw.githubusercontent.com/jmrao002/weatherdash/main/assets/images/screenShot.png",
+    "github": "https://github.com/jmrao002/weatherdash",
+    "deployment": "https://jmrao002.github.io/weatherdash",
+    "description": "See today's weather and a 5-day forecast for a specified city."
+  },
+  {
+    "id": 5,
+    "name": "Day Planner",
+    "screenshot": "https://raw.githubusercontent.com/jmrao002/day-planner/main/assets/images/screenshot.png",
+    "github": "https://github.com/jmrao002/day-planner",
+    "deployment": "https://jmrao002.github.io/day-planner",
+    "description": "nter and save events for each hour of the day."
+  }
+]

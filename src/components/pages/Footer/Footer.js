@@ -7,7 +7,7 @@ function Footer() {
       <div className="mx-4">
         <a href="https://github.com/jmrao002" rel="noreferrer" target="_blank">
           <img
-            src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-64.png"
+            src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-48.png"
             alt="Github"
           />
         </a>
@@ -19,20 +19,23 @@ function Footer() {
           target="_blank"
         >
           <img
-            src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-64.png"
+            src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-48.png"
             alt="LinkedIn"
           />
         </a>
       </div>
       <div className="mx-4">
-        <a
-          href={resume}
-          download
-          rel="noreferrer"
-          target="_blank"
-        >
+        <a href="mailto:jmichaelrao@gmail.com" rel="noreferrer" target="_blank">
           <img
-            src="https://cdn2.iconfinder.com/data/icons/business-and-finance-388/30/resume_business_cv_work_job_curriculum-_19-64.png"
+            src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-48.png"
+            alt="Gmail"
+          />
+        </a>
+      </div>
+      <div className="mx-4">
+        <a href={resume} download rel="noreferrer" target="_blank">
+          <img
+            src="https://cdn2.iconfinder.com/data/icons/business-and-finance-388/30/resume_business_cv_work_job_curriculum-_19-48.png"
             alt="Resume"
           />
         </a>

@@ -2,10 +2,10 @@ import React from "react";
 import "/Users/mrao/Code/react-portfolio/src/App.css";
 import skatevid from "/Users/mrao/Code/react-portfolio/src/assets/videos/skatevid.mp4";
 
-export default function Home() {
+function Home({ currentPage, handlePageChange }) {
   return (
     <div>
-      <header id="intro" className="height-100">
+      <header className="height-100">
         <div className="overlay"></div>
         <video autoPlay={true} muted={true} loop={true}>
           <source src={skatevid} type="video/mp4" />
@@ -15,10 +15,6 @@ export default function Home() {
             <div className="w-100 text-white">
               <h1 className="display-1 major-mono">Michael Rao</h1>
               <h2 className="major-mono">Full Stack Web Developer</h2>
-              <div className="d-flex justify-content-center">
-                <button className="m-4">About</button>
-                <button className="m-4">Portfolio</button>
-              </div>
             </div>
           </div>
         </div>
@@ -26,3 +22,5 @@ export default function Home() {
     </div>
   );
 }
+
+export default Home;
