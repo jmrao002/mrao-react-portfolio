@@ -65,3 +65,7 @@ header .overlay {
 .bcg-yellow {
   background-color: #f0ad4e;
 }
+
+.card-width {
+  width: 18rem;
+}

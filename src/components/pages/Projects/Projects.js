@@ -3,7 +3,7 @@ import React from "react";
 // Individual Project Cards
 function Projects(props) {
   return (
-    <div className="card border-dark m-4">
+    <div className="card border-dark m-4 card-width">
       <h3 className="card-title">{props.name}</h3>
       <p className="card-text">{props.description}</p>
       <div className="card-body">
