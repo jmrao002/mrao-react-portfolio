@@ -4,7 +4,7 @@ Built by Michael Rao
 
 A React application that displays personal, professional, and project information.
 
-![screenshot](https://github.com/jmrao002/mrao-react-portfolio/blob/main/image.jpg?raw=true)
+![screenshot](https://raw.githubusercontent.com/jmrao002/mrao-react-portfolio/main/src/assets/images/screenshot.jpg)
 
 # Technologies Used
 
