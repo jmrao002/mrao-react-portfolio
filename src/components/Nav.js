@@ -39,10 +39,20 @@ function NavTabs({ currentPage, handlePageChange }) {
               Portfolio
             </a>
           </li>
+          <li className="nav-item">
+            <a
+              href="#contact"
+              onClick={() => handlePageChange("Contact")}
+              className={
+                currentPage === "Contact" ? "nav-link active" : "nav-link"
+              }
+            >
+              Contact
+            </a>
+          </li>
         </ul>
       </div>
       {/* Links to resume, Github, LinkedIn, etc. */}
-      
     </div>
   );
 }
