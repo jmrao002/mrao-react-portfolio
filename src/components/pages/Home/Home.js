@@ -13,8 +13,12 @@ export default function Home() {
         <div className="container h-100">
           <div className="d-flex h-100 text-center align-items-center">
             <div className="w-100 text-white">
-              <h1 className="display-1 major-mono">M Rao</h1>
-              <h2 className="display-4 major-mono">Portfolio</h2>
+              <h1 className="display-1 major-mono">Michael Rao</h1>
+              <h2 className="major-mono">Full Stack Web Developer</h2>
+              <div className="d-flex justify-content-center">
+                <button className="m-4">About</button>
+                <button className="m-4">Portfolio</button>
+              </div>
             </div>
           </div>
         </div>

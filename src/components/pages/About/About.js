@@ -1,4 +1,5 @@
 import React from "react";
+import headshot from "/Users/mrao/Code/react-portfolio/src/assets/images/headshot.jpg";
 
 export default function About() {
   return (
@@ -8,7 +9,7 @@ export default function About() {
         <div id="image" className="col-md-4 text-center">
           <img
             className="img-fluid"
-            src="https://media-exp1.licdn.com/dms/image/C4D03AQFj8H2TKKQ9MQ/profile-displayphoto-shrink_200_200/0/1590170979753?e=1635379200&v=beta&t=vMcxKtsGIssKNeoPvp7kIefuSK9G0-e7_C-0texnDeo"
+            src={headshot}
             alt="headshot"
           ></img>
         </div>
